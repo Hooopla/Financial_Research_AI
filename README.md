@@ -1,6 +1,8 @@
 # Financial_Research
 Uses the CrewAI model to research about Riot Games as a company :D
 
+Check out this demo video: [Demo Video](https://www.youtube.com/watch?v=yR-J1NCqteM)
+
 Requirements: 
 - API Key for a LLM (I used OpenAI for my example)
 - Latest version of Python (I can't remember what the oldest version you can run this on but preferably the latest version)
