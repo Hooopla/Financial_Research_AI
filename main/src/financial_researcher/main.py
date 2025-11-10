@@ -23,7 +23,7 @@ def run():
 
     result = FinancialResearcher().crew().kickoff(inputs=inputs)
 
-    print("\n\nReport has been saved to output/report.md")
+    print("\n\nReport has been saved to output/analysis.md")
 
 if __name__ == "__main__":
     run()
